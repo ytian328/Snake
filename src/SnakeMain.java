@@ -1,7 +1,7 @@
 import java.util.concurrent.TimeUnit;
 
 public class SnakeMain {
-	final static int WIDTH = 50;
+	final static int WIDTH = 40;
 	final static int HEIGHT = 40;
 	final static int CANVAS_W = WIDTH * 10;
 	final static int CANVAS_H = HEIGHT * 10;
